@@ -7,7 +7,7 @@
 3. Kita bisa menggunakan car polling menggunakan mobil saya agar mengurangi polusi dan kemacatan.<br>
 4. Website ini bisa input, modify, delete data dan lihat data yang diinput berdasarkan nama bulan
 <br><br>
-        ______<br>
+        ______
        /|_||_\`.__<br>
       (   _    _ _\<br>
       =`-(_)--(_)-'<br>
