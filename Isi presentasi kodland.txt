@@ -1,0 +1,10 @@
+1. Nama
+2. Umur
+3. Daerah Asal
+4. Nama proyek
+5. Alasan membuat proyek tersebut
+6. Jelaskan cara kerjanya
+7. Sampaikan apa yang akan ditambahkan kedepannya
+8. Penutup
+
+

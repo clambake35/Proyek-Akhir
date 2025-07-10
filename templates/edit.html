@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Data</title>
+    <style type="text/css">
+<!--
+.style3 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; }
+-->
+    </style>
+</head>
+<body>
+    <h2 align="center">Edit Data Orang Yang Ikut</h2>
+    <form method="post" action="">
+        <table align="center">
+            <tr>
+                <td><span class="style3">Nama:</span></td>
+                <td><input type="text" name="nama" value="{{ user.nama }}" required></td>
+            </tr>
+            <tr>
+                <td><span class="style3">Tanggal:</span></td>
+                <td><input type="date" name="tanggal" value="{{ user.tanggal }}" required></td>
+            </tr>
+            <tr>
+                <td><span class="style3">No HP:</span></td>
+                <td><input type="text" name="no_hp" value="{{ user.no_hp }}" required></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center"><button type="submit">Simpan Perubahan</button></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
